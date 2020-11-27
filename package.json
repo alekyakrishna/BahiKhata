@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "run": "node index.js",
-  "author": "Vishwajeet Singh - Alekya",
+  "author": "Alekya - Vishwajeet Singh",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.0",
